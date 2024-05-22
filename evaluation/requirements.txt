@@ -8,7 +8,7 @@ multiprocess==0.70.16
 numpy==1.24.4
 openai==0.28.1
 pytest==8.0.1
-Requests==2.31.0
+Requests==2.32.0
 rich==13.7.0
 tempdir==0.7.1
 termcolor==2.4.0
