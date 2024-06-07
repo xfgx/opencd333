@@ -4,3 +4,5 @@ gradio==3.39.0
 ansi2html==1.8.0
 tiktoken
 Pillow
+jupyter-server>=2.14.1 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
